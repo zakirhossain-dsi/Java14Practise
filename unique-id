@@ -1,0 +1,26 @@
+MDP-2671: Site map index have stopped working
+MDP-2654: CLS issue: width/height properties on promos are wrong
+MDP-2788: Short author bio - optional role, show multipe authors
+Went to take 1st doge of covit19 vaccination
+ & Demo on Conscent, sitemap, and outbound rss feed
+MBI-71: Improve the checkout flow for "free subscriptions".
+MBI-87: Logic to determine free campaign product needs to be changed
+ & meeting with Sultan bhai on vipps checkout, maven settings
+MDP-2827: We cannot login at campaign-master-admin-jx-staging.devx.mentordigital.io
+MCJ-303: Mentos: Change text at "free subcriptions"
+MBI-75: Create new connect subscription and allow access to content with new subscriberstate.
+MDP-2843: Configure lazy loading on all templates, clean up obsolete functionality
+MCJ-308: Payflow : Gift subscriptions
+MCJ-319: Show the block of payer information in the subscription app for "Gift Subscription"
+MCJ-320: Add support for Gift Subscription to vipps checkout.
+MDP-2763: Send user's IP address when a successful purchase happen
+MCJ-328: Make gift subscription work with "digital" products
+MDP-2876: Remove startDate from vipps-checkout, mediaconnect-libs, and subscription app for gift-subscription.
+MCJ-331: Gift subscription - Set showing start date field as optional
+MDP-2881: Send user's IP address when a successful purchase happen - Klarnacheckout
+MDP-2355: Create dashboards for Pagebuilder logs from ARc
+MDP-2907: Add IP address to regular klarna checkout form
+MDP-2792: Adjust sentry call to collect CSP related errors
+MCJ-352: Update deprecated fulfillment API used in Klarna checkout
+MCJ-39: User management - backup system in case of provider error
+Meeting with Christoffer and Beroza bhai on MCJ-39

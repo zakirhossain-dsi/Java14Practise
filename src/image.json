@@ -1,0 +1,30 @@
+{
+  "image_type": "photograph",
+  "caption": "Kári Stefánsson på sitt kontor i Reykjavik",
+  "licensable": false,
+  "_id": "7RT72THFEDBYUJ3YRVSCCFFAQI",
+  "type": "image",
+  "version": "0.10.4",
+  "publish_date": "2020-06-20T13:16:04.0Z",
+  "display_date": "2020-06-20T13:18:12.0Z",
+  "distributor": {
+    "mode": "reference",
+    "reference_id": "5c6469c9-b957-4b3c-9e6b-33ca5f891a39"
+  },
+  "language": "nb-NO",
+  "source": {
+    "source_id": "21233",
+    "source_type": "migrated",
+    "name": "reportasje",
+    "system": "Reportasje stage"
+  },
+  "additional_properties": {
+    "restricted": true,
+    "published": true,
+    "originalUrl": "https://bucketeer-261d8467-41d2-4038-b4a7-0a3873b5d20c.s3.amazonaws.com/uploads/ac_image/image/21233/Kári_Stefánsson_på_kontoret.jpg",
+    "position": 1,
+    "id": 21233,
+    "article_row_id": 14693,
+    "usage_instructions": "Migrated from Reportasje VL. Do not use unless usage rights have been clarified for this specific image"
+  }
+}
